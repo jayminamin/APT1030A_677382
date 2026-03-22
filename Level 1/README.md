@@ -12,4 +12,4 @@ The program should:
       - Ask for username and password.
       - Validate against predefined credentials.
       - Print:
-          - "Access Granted" OR "Invalid Credentials"
+            - "Access Granted" OR "Invalid Credentials"
