@@ -1,9 +1,9 @@
-Context: eCitizen Login Validation System
-Concepts
+#Context: eCitizen Login Validation System
+##Concepts
       - Syntax vs semantics
       - Compilation vs interpretation
       - Runtime errors
-Implementation Task
+##Implementation Task
 Write a login validation program in:
       - Python
       - Java
