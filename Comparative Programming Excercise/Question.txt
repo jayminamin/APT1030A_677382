@@ -1,0 +1,18 @@
+Comparative Programming Exercise
+Implement a Student Registration Status Checker in Python, Java, JavaScript, and C.
+The program must:
+  - Prompt for student name.
+  - Prompt for number of registered units.
+  - Display "Overload – Approval Required" if units are greater than 7.
+  - Otherwise display "Registration Accepted."
+  - Print a clear final summary showing the student name, units, and status.
+Additional requirements
+  1. Create one implementation in each of the four languages.
+  2. Place each implementation in its own folder.
+  3. Write a README.md file explaining:
+    - The purpose of the project.
+    - How to run each version.
+    - What the project demonstrates.
+  4. Write a comparison.md file comparing the four languages.
+  5. Push the full project to GitHub.
+  6. Submit the GitHub repository URL.
